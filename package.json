@@ -1,0 +1,20 @@
+{
+  "name": "Shower",
+  "version": "1.0.0",
+  "description": "A Networktesting Tool Based On Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Farteen/Shower",
+  "keywords": [
+    "Electron",
+    "NetworkingTesting",
+    "Shower"
+  ],
+  "author": "farteen",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  }
+}
